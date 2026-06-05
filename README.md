@@ -396,3 +396,5 @@ For Chinese-language discussion and early testing, scan the WeChat QR below. Add
 ## License
 
 Apache-2.0 — see [LICENSE](LICENSE).
+
+<!-- Maintainer update: Runyuan Wang (9s5bz2jvd2-lang). -->
